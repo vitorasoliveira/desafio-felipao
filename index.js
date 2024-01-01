@@ -18,5 +18,3 @@ if (XP <= 1000) {
 } else if (XP >= 10001) {
     console.log("O Herói de nome" + " " + heroName + " " + "está no nível Radiante");
 }
-
-// Felipão, arruma um trampo noix!!!
